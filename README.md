@@ -1,3 +1,6 @@
+## This a Real-time Token Created for Nft MArketplace i created where user can use these tokens to buy or sell Nfts's.
+## If you have any doubbt please go to my other repo-ETHOS.
+
 # Check your Balance
 
 1. Find out your principal id:
@@ -50,6 +53,9 @@ dfx canister call token transfer "($CANISTER_PUBLIC_KEY, 500_000_000)"
 ```
 
 # Deploy the Project to the Live IC Network
+
+# CAUTION!
+## If you Deploy the Canister to live network it will cost you Real Money so These Steps below are Optional.
 
 1. Create and deploy canisters:
 
