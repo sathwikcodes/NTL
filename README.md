@@ -1,5 +1,5 @@
-## This a Real-time Token Created for Nft MArketplace i created where user can use these tokens to buy or sell Nfts's.
-## If you have any doubbt please go to my other repo-ETHOS.
+## This a Real-time Token Created for Nft Marketplace, i created where users can use these tokens to buy or sell Nfts's.
+## having any doubts? please go to my other repo - ETHOS.
 
 # Check your Balance
 
